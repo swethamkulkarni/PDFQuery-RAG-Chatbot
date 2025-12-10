@@ -74,3 +74,11 @@ Build a chatbot that:
 - **LangChain Usage:** Using runnables and prompt templates to structure chains
 - **Frontend Skills:** Basics of Streamlit for a usable interface
 - **Debugging:** Handling model limits and token usage efficiently
+
+## 🔮 Future Improvements
+
+- Support for **multiple PDFs** and multi-file ingestion flows
+- Robust handling of **messy, real-world PDFs** (layouts, images, tables)
+- Enhance the chatbot with configurable **tone & personality** and memory
+- Improve **UI/UX** for conversational context, history, and user feedback
+
