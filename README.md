@@ -1,4 +1,4 @@
-# 🚀 PDFQuery RAG Chatbot
+# PDFQuery RAG Chatbot
 
 An AI-powered assistant built using **Retrieval-Augmented Generation (RAG)** that answers employee questions about company policies — saving HR teams time during the onboarding process.
 
@@ -17,7 +17,7 @@ Build a chatbot that:
 
 ---
 
-## 🧠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Document Processing
 - **PyPDF** – Loading and parsing PDFs  
@@ -49,3 +49,11 @@ Build a chatbot that:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/YOUR_USERNAME/PDFQuery-RAG-Chatbot.git
+
+2. **Add your environment variables (API keys)**
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+4.**Run the app**
+```bash
+streamlit run app.py
