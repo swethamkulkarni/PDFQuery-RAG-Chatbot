@@ -1,4 +1,4 @@
-# PDFQuery RAG Chatbot
+# 🤖 PDFQuery RAG Chatbot
 
 An AI-powered assistant built using **Retrieval-Augmented Generation (RAG)** that answers employee questions about company policies — saving HR teams time during the onboarding process.
 
@@ -48,7 +48,7 @@ Build a chatbot that:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/PDFQuery-RAG-Chatbot.git
+   git clone https://github.com/swethamkulkarni/PDFQuery-RAG-Chatbot.git
 
 2. **Add your environment variables (API keys)**
 3. **Install dependencies**
@@ -61,14 +61,10 @@ Build a chatbot that:
 
 ---
 
-##📘 What I Learned
+## 📘 What I Learned
 
-Integrating an LLM with a retrieval pipeline (RAG) end-to-end
-
-Loading & splitting PDFs, embedding text, and storing vectors in ChromaDB
-
-Using LangChain runnables and prompt templates to structure the conversation chain
-
-Basics of Streamlit for a usable frontend
-
-Debugging model usage and switching models when hitting token or cost limits
+- **RAG Integration:** Integrating an LLM with a retrieval pipeline end-to-end
+- **PDF Handling:** Loading & splitting PDFs, embedding text, storing vectors
+- **LangChain Usage:** Using runnables and prompt templates to structure chains
+- **Frontend Skills:** Basics of Streamlit for a usable interface
+- **Debugging:** Handling model limits and token usage efficiently
