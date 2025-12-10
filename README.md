@@ -57,3 +57,17 @@ Build a chatbot that:
  4.**Run the app**
    ```bash
   streamlit run app.py
+
+---
+
+##📘 What I Learned
+
+Integrating an LLM with a retrieval pipeline (RAG) end-to-end
+
+Loading & splitting PDFs, embedding text, and storing vectors in ChromaDB
+
+Using LangChain runnables and prompt templates to structure the conversation chain
+
+Basics of Streamlit for a usable frontend
+
+Debugging model usage and switching models when hitting token or cost limits
