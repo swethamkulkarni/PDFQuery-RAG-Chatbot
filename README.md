@@ -6,9 +6,9 @@
 
 <h1 align="center">🤖 PDFQuery RAG Chatbot</h1>
 <p align="center">An AI-powered assistant that answers employee questions about company policies using Retrieval-Augmented Generation (RAG).</p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://images.unsplash.com/photo-1590608897129-79b7e1c6ff8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Chatbot Banner" width="80%"/>
-</p>
+</p> -->
 
 ---
 
