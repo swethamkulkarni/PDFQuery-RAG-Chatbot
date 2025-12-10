@@ -1,8 +1,14 @@
-# 🤖 PDFQuery RAG Chatbot
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Chatbot-blue?style=for-the-badge&logo=appveyor" alt="AI Chatbot Badge"/>
+  <img src="https://img.shields.io/badge/RAG-Powered-purple?style=for-the-badge&logo=read-the-docs" alt="RAG Badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-Frontend-orange?style=for-the-badge&logo=streamlit" alt="Streamlit Badge"/>
+</p>
 
-An AI-powered assistant built using **Retrieval-Augmented Generation (RAG)** that answers employee questions about company policies — saving HR teams time during the onboarding process.
-
-This version uses the *Umbrella Corporation* policy PDFs as an example, but can be adapted to any organization’s documents.
+<h1 align="center">🤖 PDFQuery RAG Chatbot</h1>
+<p align="center">An AI-powered assistant that answers employee questions about company policies using Retrieval-Augmented Generation (RAG).</p>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1590608897129-79b7e1c6ff8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Chatbot Banner" width="80%"/>
+</p>
 
 ---
 
@@ -17,7 +23,7 @@ Build a chatbot that:
 
 ---
 
-##  Tech Stack & Tools
+## 🧰 Tech Stack & Tools
 
 ### Document Processing
 - **PyPDF** – Loading and parsing PDFs  
@@ -48,7 +54,7 @@ Build a chatbot that:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/swethamkulkarni/PDFQuery-RAG-Chatbot.git
+   git clone https://github.com/YOUR_USERNAME/PDFQuery-RAG-Chatbot.git
 
 2. **Add your environment variables (API keys)**
 3. **Install dependencies**
