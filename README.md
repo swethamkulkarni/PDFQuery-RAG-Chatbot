@@ -57,6 +57,7 @@ Build a chatbot that:
  4.**Run the app**
    ```bash
   streamlit run app.py
+  ```
 
 ---
 
