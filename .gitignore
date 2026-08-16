@@ -1,4 +1,11 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
 .DS_Store
 .env
+.vscode/
 __pycache__
 data/
+umbrella3/
