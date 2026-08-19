@@ -1,0 +1,25 @@
+{"question": "How many days of annual leave do I get?", "expect": ["25", "days"], "answerable": true}
+{"question": "What notice do I have to give if I resign during probation?", "expect": ["week"], "answerable": true}
+{"question": "Can I expense a taxi home after working late?", "expect": ["taxi"], "answerable": true}
+{"question": "What's the policy on working from home?", "expect": ["remote", "home"], "answerable": true}
+{"question": "How do I book time off?", "expect": ["request", "manager"], "answerable": true}
+{"question": "Does annual leave carry over to the next year?", "expect": ["carry"], "answerable": true}
+{"question": "What happens if I'm off sick for more than a week?", "expect": ["sick", "certificate"], "answerable": true}
+{"question": "Am I paid for overtime?", "expect": ["overtime"], "answerable": true}
+{"question": "What's the dress code?", "expect": ["dress"], "answerable": true}
+{"question": "Who do I report a grievance to?", "expect": ["grievance", "manager"], "answerable": true}
+{"question": "How much notice for resignation, and does it change after two years?", "expect": ["notice"], "answerable": true}
+{"question": "Is there a pension scheme and when am I enrolled?", "expect": ["pension"], "answerable": true}
+{"question": "What are the core working hours?", "expect": ["hours"], "answerable": true}
+{"question": "Can I take unpaid leave?", "expect": ["unpaid"], "answerable": true}
+{"question": "What's the parental leave entitlement?", "expect": ["parental", "maternity"], "answerable": true}
+{"question": "What's the company's policy on second jobs?", "expect": ["outside", "employment"], "answerable": true}
+{"question": "How is the annual bonus calculated?", "expect": ["bonus"], "answerable": true}
+{"question": "What counts as gross misconduct?", "expect": ["misconduct"], "answerable": true}
+{"question": "I started on 2026-03-02 and have a one month notice period. When is my last day?", "expect": ["April"], "answerable": true}
+{"question": "How many days off do I have left this year?", "expect": [], "answerable": false}
+{"question": "Can you approve my leave request for next Friday?", "expect": [], "answerable": false}
+{"question": "What's my manager's phone number?", "expect": [], "answerable": false}
+{"question": "Is the company planning redundancies?", "expect": [], "answerable": false}
+{"question": "What's the statutory minimum holiday entitlement in the UK?", "expect": [], "answerable": false}
+{"question": "Should I accept the job offer I got from a competitor?", "expect": [], "answerable": false}
